@@ -1,0 +1,51 @@
+    1  touch devops.txt
+    2  ls
+    3  touch cloud.txt
+    4  ls
+    5  cat devops.txt
+    6  vi devops.txt
+    7  ls
+    8  cat devops.txt 
+    9  cat cloud.txt
+   10  vi cloud.txt 
+   11  cat cloud.txt 
+   12  ls
+   13  vi aws.txt
+   14  cat aws.txt 
+   15  cleat
+   16  clear
+   17  echo "Hello Everyone clear"
+   18  clear
+   19  echo "Hello Everyone"
+   20  echo "Welcome to Linux sessions"
+   21  echo "GIT is a version controlling tool" 
+   22  echo "GIT is a version controlling tool" > git.txt
+   23  ls
+   24  cat git.txt 
+   25  echo "GIT helps to store and manage code" > git.txt
+   26  cat git.txt 
+   27  echo "GIT is a version controlling tool" > git.txt
+   28  cat git.txt 
+   29  echo "GIT helps to store and manage code" >> git.txt
+   30  cat git.txt 
+   31  echo "Git helps to revert the changes" >> git.txt
+   32  cat git.txt 
+   33  ls
+   34  ls -l
+   35  ls -lt
+   36  ls -lrt
+   37  ls
+   38  rm aws.txt 
+   39  ls
+   40  rm long.txt 
+   41  rm short.txt 
+   42  ls
+   43  rm cloud.txt devops.txt git.txt 
+   44  ls
+   45  clear
+   46  ls
+   47  hostname
+   48  uname
+   49  cal
+   50  date
+   51  history
